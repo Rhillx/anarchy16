@@ -1,0 +1,17 @@
+.jumbo-container{
+    background-color: grey;
+    width: 100%;
+    height: 500px;
+}
+.header-container{
+    width: 100%;
+    justify-content: center;
+    background-color: lightblue;
+    text-align: center
+}
+  
+.header1{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
